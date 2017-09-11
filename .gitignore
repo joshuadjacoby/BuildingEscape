@@ -9,6 +9,7 @@ Saved/
 Content/StarterContent
 
 #########################
-# VC Generate Files #
+# VC Generated Files #
 #########################
 *VC.db
+.vs/
